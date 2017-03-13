@@ -17,6 +17,7 @@ public class KungFu4Life {
     public static void main(String[] args) {
         System.out.println("Inicio del kung fu");
         System.out.println("Continuacion del kung fu");
+        System.out.println("Hey oh");
     }
     
 }
